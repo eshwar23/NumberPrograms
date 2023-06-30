@@ -54,6 +54,7 @@ class GoldbachNumber
                 if(checkPrime(i)==0 && checkPrime(j)==0 && (i+j==n))
                 {
                     System.out.println(i+ " + "+j);
+                    break;
                 }
             }
         }
