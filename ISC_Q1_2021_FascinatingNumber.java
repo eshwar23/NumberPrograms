@@ -36,7 +36,7 @@ OUTPUT: INVALID INPUT
 
  */
 import java.util.*;
-class ISC_Q1_2021_FascinatingNumber
+class FascinatingNumber
 {
     public static void main()
     {
